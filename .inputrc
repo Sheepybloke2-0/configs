@@ -1,5 +1,4 @@
-# Respect default shortcuts.
-$include /etc/inputrc
+set bell-style none
 
 ## arrow up
 "\e[A":history-search-backward
